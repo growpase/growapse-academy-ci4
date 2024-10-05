@@ -1,0 +1,7 @@
+writable/*
+!writable/index.html
+.env
+.phpunit.result.cache
+phpunit.xml
+phpunit.xml.dist
+vendor/
